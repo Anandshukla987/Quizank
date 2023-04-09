@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Who is father of computer?",
+        "choice1": "Charles Morley",
+        "choice2": "James Hutson",
+        "choice3": "Charles Babbage",
+        "choice4": "Dr. David",
+        "answer": 3
+    },
+    {
+        "question": "What is the name given to wooden carving?",
+        "choice1": "Typology",
+        "choice2": "Xypology",
+        "choice3": "Wypology",
+        "choice4": "Carbon Dating",
+        "answer": 2
+    },
+    {
+        "question": "What is the basic principle of Miss Universe Competition?",
+        "choice1": "Beauty",
+        "choice2": "Brains",
+        "choice3": "Beauty with Brains",
+        "choice4": "None of the above",
+        "answer": 3
+    },
+    {
+        "question": "Haiti is an independent country of this seashore. Name the seashore.",
+        "choice1": "Caribbean sea",
+        "choice2": "Cape Cod",
+        "choice3": "Cumbeland",
+        "choice4": "Assateague",
+        "answer": 1
+    },
+    {
+        "question": "Which country’s capital is Ottawa?",
+        "choice1": "Germany",
+        "choice2": "Israel",
+        "choice3": "Itly",
+        "choice4": "Canada",
+        "answer": 4
+    }
+]
